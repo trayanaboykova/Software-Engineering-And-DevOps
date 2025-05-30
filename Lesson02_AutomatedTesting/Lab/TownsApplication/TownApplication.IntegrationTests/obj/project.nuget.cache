@@ -1,0 +1,108 @@
+{
+  "version": 2,
+  "dgSpecHash": "BrC9AkFNbCI=",
+  "success": false,
+  "projectFilePath": "d:\\Coding\\GitHub\\Software-Engineering-And-DevOps\\Lesson02_AutomatedTesting\\Lab\\TownsApplication\\TownApplication.IntegrationTests\\TownApplication.IntegrationTests.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.EntityFrameworkCore.InMemory (>= 6.0.1)' for 'net6.0'.",
+      "projectPath": "d:\\Coding\\GitHub\\Software-Engineering-And-DevOps\\Lesson02_AutomatedTesting\\Lab\\TownsApplication\\TownApplication.IntegrationTests\\TownApplication.IntegrationTests.csproj",
+      "filePath": "d:\\Coding\\GitHub\\Software-Engineering-And-DevOps\\Lesson02_AutomatedTesting\\Lab\\TownsApplication\\TownApplication.IntegrationTests\\TownApplication.IntegrationTests.csproj",
+      "libraryId": "Microsoft.EntityFrameworkCore.InMemory",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.NET.Test.Sdk (>= 17.5.0)' for 'net6.0'.",
+      "projectPath": "d:\\Coding\\GitHub\\Software-Engineering-And-DevOps\\Lesson02_AutomatedTesting\\Lab\\TownsApplication\\TownApplication.IntegrationTests\\TownApplication.IntegrationTests.csproj",
+      "filePath": "d:\\Coding\\GitHub\\Software-Engineering-And-DevOps\\Lesson02_AutomatedTesting\\Lab\\TownsApplication\\TownApplication.IntegrationTests\\TownApplication.IntegrationTests.csproj",
+      "libraryId": "Microsoft.NET.Test.Sdk",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'xunit (>= 2.4.2)' for 'net6.0'.",
+      "projectPath": "d:\\Coding\\GitHub\\Software-Engineering-And-DevOps\\Lesson02_AutomatedTesting\\Lab\\TownsApplication\\TownApplication.IntegrationTests\\TownApplication.IntegrationTests.csproj",
+      "filePath": "d:\\Coding\\GitHub\\Software-Engineering-And-DevOps\\Lesson02_AutomatedTesting\\Lab\\TownsApplication\\TownApplication.IntegrationTests\\TownApplication.IntegrationTests.csproj",
+      "libraryId": "xunit",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'xunit.runner.visualstudio (>= 2.4.5)' for 'net6.0'.",
+      "projectPath": "d:\\Coding\\GitHub\\Software-Engineering-And-DevOps\\Lesson02_AutomatedTesting\\Lab\\TownsApplication\\TownApplication.IntegrationTests\\TownApplication.IntegrationTests.csproj",
+      "filePath": "d:\\Coding\\GitHub\\Software-Engineering-And-DevOps\\Lesson02_AutomatedTesting\\Lab\\TownsApplication\\TownApplication.IntegrationTests\\TownApplication.IntegrationTests.csproj",
+      "libraryId": "xunit.runner.visualstudio",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'coverlet.collector (>= 3.2.0)' for 'net6.0'.",
+      "projectPath": "d:\\Coding\\GitHub\\Software-Engineering-And-DevOps\\Lesson02_AutomatedTesting\\Lab\\TownsApplication\\TownApplication.IntegrationTests\\TownApplication.IntegrationTests.csproj",
+      "filePath": "d:\\Coding\\GitHub\\Software-Engineering-And-DevOps\\Lesson02_AutomatedTesting\\Lab\\TownsApplication\\TownApplication.IntegrationTests\\TownApplication.IntegrationTests.csproj",
+      "libraryId": "coverlet.collector",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.EntityFrameworkCore (>= 6.0.1)' for 'net6.0'.",
+      "projectPath": "d:\\Coding\\GitHub\\Software-Engineering-And-DevOps\\Lesson02_AutomatedTesting\\Lab\\TownsApplication\\TownApplication.IntegrationTests\\TownApplication.IntegrationTests.csproj",
+      "filePath": "d:\\Coding\\GitHub\\Software-Engineering-And-DevOps\\Lesson02_AutomatedTesting\\Lab\\TownsApplication\\TownApplication.IntegrationTests\\TownApplication.IntegrationTests.csproj",
+      "libraryId": "Microsoft.EntityFrameworkCore",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.NETCore.App.Ref (= 6.0.36)' for 'net6.0'.",
+      "projectPath": "d:\\Coding\\GitHub\\Software-Engineering-And-DevOps\\Lesson02_AutomatedTesting\\Lab\\TownsApplication\\TownApplication.IntegrationTests\\TownApplication.IntegrationTests.csproj",
+      "filePath": "d:\\Coding\\GitHub\\Software-Engineering-And-DevOps\\Lesson02_AutomatedTesting\\Lab\\TownsApplication\\TownApplication.IntegrationTests\\TownApplication.IntegrationTests.csproj",
+      "libraryId": "Microsoft.NETCore.App.Ref",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.WindowsDesktop.App.Ref (= 6.0.36)' for 'net6.0'.",
+      "projectPath": "d:\\Coding\\GitHub\\Software-Engineering-And-DevOps\\Lesson02_AutomatedTesting\\Lab\\TownsApplication\\TownApplication.IntegrationTests\\TownApplication.IntegrationTests.csproj",
+      "filePath": "d:\\Coding\\GitHub\\Software-Engineering-And-DevOps\\Lesson02_AutomatedTesting\\Lab\\TownsApplication\\TownApplication.IntegrationTests\\TownApplication.IntegrationTests.csproj",
+      "libraryId": "Microsoft.WindowsDesktop.App.Ref",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.AspNetCore.App.Ref (= 6.0.36)' for 'net6.0'.",
+      "projectPath": "d:\\Coding\\GitHub\\Software-Engineering-And-DevOps\\Lesson02_AutomatedTesting\\Lab\\TownsApplication\\TownApplication.IntegrationTests\\TownApplication.IntegrationTests.csproj",
+      "filePath": "d:\\Coding\\GitHub\\Software-Engineering-And-DevOps\\Lesson02_AutomatedTesting\\Lab\\TownsApplication\\TownApplication.IntegrationTests\\TownApplication.IntegrationTests.csproj",
+      "libraryId": "Microsoft.AspNetCore.App.Ref",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
