@@ -1,0 +1,64 @@
+{
+  "version": 2,
+  "dgSpecHash": "WluY+rF0ZUw=",
+  "success": false,
+  "projectFilePath": "d:\\Coding\\GitHub\\Software-Engineering-And-DevOps\\Lesson02_AutomatedTesting\\Lab\\BooksApi\\Books.Core\\Books.Core.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.EntityFrameworkCore (>= 7.0.4)' for 'net6.0'.",
+      "projectPath": "d:\\Coding\\GitHub\\Software-Engineering-And-DevOps\\Lesson02_AutomatedTesting\\Lab\\BooksApi\\Books.Core\\Books.Core.csproj",
+      "filePath": "d:\\Coding\\GitHub\\Software-Engineering-And-DevOps\\Lesson02_AutomatedTesting\\Lab\\BooksApi\\Books.Core\\Books.Core.csproj",
+      "libraryId": "Microsoft.EntityFrameworkCore",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.EntityFrameworkCore.SqlServer (>= 7.0.4)' for 'net6.0'.",
+      "projectPath": "d:\\Coding\\GitHub\\Software-Engineering-And-DevOps\\Lesson02_AutomatedTesting\\Lab\\BooksApi\\Books.Core\\Books.Core.csproj",
+      "filePath": "d:\\Coding\\GitHub\\Software-Engineering-And-DevOps\\Lesson02_AutomatedTesting\\Lab\\BooksApi\\Books.Core\\Books.Core.csproj",
+      "libraryId": "Microsoft.EntityFrameworkCore.SqlServer",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.NETCore.App.Ref (= 6.0.36)' for 'net6.0'.",
+      "projectPath": "d:\\Coding\\GitHub\\Software-Engineering-And-DevOps\\Lesson02_AutomatedTesting\\Lab\\BooksApi\\Books.Core\\Books.Core.csproj",
+      "filePath": "d:\\Coding\\GitHub\\Software-Engineering-And-DevOps\\Lesson02_AutomatedTesting\\Lab\\BooksApi\\Books.Core\\Books.Core.csproj",
+      "libraryId": "Microsoft.NETCore.App.Ref",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.WindowsDesktop.App.Ref (= 6.0.36)' for 'net6.0'.",
+      "projectPath": "d:\\Coding\\GitHub\\Software-Engineering-And-DevOps\\Lesson02_AutomatedTesting\\Lab\\BooksApi\\Books.Core\\Books.Core.csproj",
+      "filePath": "d:\\Coding\\GitHub\\Software-Engineering-And-DevOps\\Lesson02_AutomatedTesting\\Lab\\BooksApi\\Books.Core\\Books.Core.csproj",
+      "libraryId": "Microsoft.WindowsDesktop.App.Ref",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.AspNetCore.App.Ref (= 6.0.36)' for 'net6.0'.",
+      "projectPath": "d:\\Coding\\GitHub\\Software-Engineering-And-DevOps\\Lesson02_AutomatedTesting\\Lab\\BooksApi\\Books.Core\\Books.Core.csproj",
+      "filePath": "d:\\Coding\\GitHub\\Software-Engineering-And-DevOps\\Lesson02_AutomatedTesting\\Lab\\BooksApi\\Books.Core\\Books.Core.csproj",
+      "libraryId": "Microsoft.AspNetCore.App.Ref",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
